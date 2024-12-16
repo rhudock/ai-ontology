@@ -61,6 +61,3 @@
 14. **Multiple or Comparable Processing Activities:**
     - *CQ30:* Under what conditions can a single risk assessment cover multiple comparable sets of processing activities?
 
----
-
-These competency questions test whether the ontology can represent the concepts, relationships, constraints, and processes defined in the provided regulations. By answering these questions, the ontology’s comprehensiveness, correctness, and utility can be evaluated.
